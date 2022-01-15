@@ -1,1 +1,2 @@
-# Pro-106_by_nimish_legend_coder
+# Standard_deviation
+solution for c105
